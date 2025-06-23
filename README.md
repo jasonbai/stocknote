@@ -64,8 +64,8 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/your-username/stocknote-back9.0.git
-cd stocknote-back9.0
+git clone https://github.com/jasonbai/stocknote.git
+cd stocknote
 ```
 
 2. **安装依赖**
@@ -94,7 +94,7 @@ pnpm build
 ## 📁 项目结构
 
 ```
-stocknote-back9.0/
+stocknote/
 ├── frontend/                 # 前端应用
 │   ├── src/
 │   │   ├── components/       # UI组件
